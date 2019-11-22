@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\lkq\desktop\ll(1)\ll(1)\main.cpp(239): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lkq\desktop\ll(1)\ll(1)\main.cpp(292): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lkq\desktop\ll(1)\ll(1)\main.cpp(330): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lkq\desktop\ll(1)\ll(1)\main.cpp(373): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lkq\desktop\ll(1)\ll(1)\main.cpp(407): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lkq\desktop\ll(1)\ll(1)\main.cpp(408): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\lkq\desktop\ll(1)\ll(1)\main.cpp(526): warning C4326: “main”的返回类型应为“int”而非“void”
+  LL(1).vcxproj -> C:\Users\lkq\Desktop\LL(1)\x64\Debug\LL(1).exe
